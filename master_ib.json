@@ -3,17 +3,17 @@
     {
       "conn": "Srvr=pcsuh;Ref=mc_inv;Usr=admin;Pwd=kzueirf",
       "regl": true,
-      "dt": "$IB$"
+      "dt": "dt/$IB$"
     },
     {
       "conn": "Srvr=pcsuh;Ref=mc_uat_tst;Usr=admin;Pwd=kzueirf",
       "regl": false,
-      "dt": "uat"
+      "dt": "dt/uat"
     },
     {
       "conn": "Srvr=pcsuh;Ref=dtConversion;Usr=admin;Pwd=kzueirf",
       "regl": true,
-      "dt": "jrnl"
+      "dt": "dt/jrnl"
     }
   ]
 }

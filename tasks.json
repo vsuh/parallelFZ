@@ -1,0 +1,14 @@
+{
+  "01": {
+    "name": "initialize.bsl"
+  },
+  "05": {
+    "name": "unloading.bsl"
+  },
+  "10": {
+    "name": "loading.bsl"
+  },
+  "15": {
+    "name": "copying_ftp.bsl"
+  }
+}
