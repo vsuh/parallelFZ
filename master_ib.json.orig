@@ -1,0 +1,22 @@
+{
+  "ib_connStr": [
+    {
+      "name" : "mc_inv",
+      "conn": "Srvr=pcsuh;Ref=mc_inv;Usr=admin;Pwd=kzueirf",
+      "regl": 0,
+      "dt": "$IB$"
+    },
+    {
+      "name" : "mc_uat_tst",
+      "conn": "Srvr=pcsuh;Ref=mc_uat_tst;Usr=admin;Pwd=kzueirf",
+      "regl": 1,
+      "dt": "uat"
+    },
+    {
+      "name" : "dtConversion",
+      "conn": "Srvr=pcsuh;Ref=dtConversion",
+      "regl": 0,
+      "dt": "jrnl"
+    }
+  ]
+}

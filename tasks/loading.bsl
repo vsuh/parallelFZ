@@ -1,4 +1,4 @@
 //
 Procedure run() Экспорт
-	Message("run: loading.bsl");
+	obj.lg("run: loading.bsl");
 EndProcedure // run()

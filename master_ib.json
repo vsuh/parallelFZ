@@ -1,20 +1,10 @@
 {
   "ib_connStr": [
     {
+      "name" : "mc_inv",
       "conn": "Srvr=pcsuh;Ref=mc_inv;Usr=admin;Pwd=kzueirf",
-      "regl": true,
-      "dt": "dt/$IB$"
-    },
-    {
-      "conn": "Srvr=pcsuh;Ref=mc_uat_tst;Usr=admin;Pwd=kzueirf",
-      "regl": false,
-      "dt": "dt/uat"
-    },
-    {
-      "conn": "Srvr=pcsuh;Ref=dtConversion;Usr=admin;Pwd=kzueirf",
-      "regl": true,
-      "dt": "dt/jrnl"
+      "regl": 0,
+      "dt": "$IB$"
     }
-  ],
-  "exe1c" : "C:/Program Files (x86)/1cv8/8.3.7.2008/bin/1cv8.exe"
+  ]
 }

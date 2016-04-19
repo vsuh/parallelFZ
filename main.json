@@ -1,8 +1,15 @@
 {
   "tsk_dir": "tasks",
   "tsk_lst": "tasks.json",
-  "log_file" : "log/LOG.111",
-  "dt_dir" : "dt",
+  "log_file": "LOG.111",
+  "log_today": "LOG.000",
+  "log_dir": "log",
+  "dt_dir": "dt",
   "bak_dir": "//192.168.5.100/Backups",
-  "oscript" : "C:/Program Files (x86)/OneScript/bin/oscript.exe"
+  "oscript": "d:/Program Files (x86)/OneScript/bin/oscript.exe",
+  "exe1c": "C:/Program Files (x86)/1cv8/8.3.7.2008/bin/1cv8.exe",
+  "v8com": "V83.ComConnector",
+  "cl_addr": "pcsuh",
+  "agn_port": 1540,
+  "mng_port": 1541
 }
