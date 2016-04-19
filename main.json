@@ -3,5 +3,6 @@
   "tsk_lst": "tasks.json",
   "log_file" : "log/LOG.111",
   "dt_dir" : "dt",
-  "bak_dir": "//192.168.5.100/Backups"
+  "bak_dir": "//192.168.5.100/Backups",
+  "oscript" : "C:/Program Files (x86)/OneScript/bin/oscript.exe"
 }
