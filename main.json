@@ -1,5 +1,7 @@
 {
   "tsk_dir": "tasks",
   "tsk_lst": "tasks.json",
-  "log_file" : "log/LOG.111"
+  "log_file" : "log/LOG.111",
+  "dt_dir" : "dt",
+  "bak_dir": "//192.168.5.100/Backups"
 }
